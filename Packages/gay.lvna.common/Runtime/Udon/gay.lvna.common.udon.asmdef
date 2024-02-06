@@ -1,6 +1,6 @@
 {
-    "name": "gay.lvna.common",
-    "rootNamespace": "",
+    "name": "gay.lvna.common.udon",
+    "rootNamespace": "gay.lvna.common.udon",
     "references": [
         "UdonSharp.Runtime",
         "VRC.Udon"
