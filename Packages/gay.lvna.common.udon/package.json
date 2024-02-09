@@ -1,7 +1,7 @@
 {
-	"name": "gay.lvna.common",
-	"displayName": "Luna - Common",
-	"version": "0.0.2",
+	"name": "gay.lvna.common.udon",
+	"displayName": "Luna - Common Udon",
+	"version": "0.0.3",
 	"description": "Common functions for my libraries",
 	"gitDependencies": {},
 	"vpmDependencies": {
@@ -14,5 +14,5 @@
 	},
 	"legacyFolders": {},
 	"legacyFiles": {},
-	"localPath": "D:\\vrcprojects\\lvnPerms\\Packages\\gay.lvna.common"
+	"localPath": "D:\\vrcprojects\\lvnPerms\\Packages\\gay.lvna.common.udon"
 }

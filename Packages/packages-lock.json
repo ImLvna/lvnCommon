@@ -221,8 +221,8 @@
         "com.unity.inputsystem": "1.2.0"
       }
     },
-    "gay.lvna.common": {
-      "version": "file:gay.lvna.common",
+    "gay.lvna.common.udon": {
+      "version": "file:gay.lvna.common.udon",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

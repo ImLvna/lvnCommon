@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      packageName: "gay.lvna.common"
+      packageName: "gay.lvna.common.udon"
       zipFile: ""
       unityPackage: ""
       version: ""
